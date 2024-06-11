@@ -57,7 +57,7 @@ function Header() {
          
           {viewResume && (
             <li>
-              <a href="#resume">Resume</a>
+              <a href="https://drive.google.com/file/d/1n5H5z-UIkDtx1y4meMWQlhK22omPMm1l/view?usp=sharing">Resume</a>
             </li>
           )}
           <li>
